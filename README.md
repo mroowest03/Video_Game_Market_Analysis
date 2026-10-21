@@ -8,6 +8,16 @@ For this project, I analyzed historical video game sales data to identify patter
 
 I used **Microsoft Excel** to clean, organize, and analyze the dataset and **Tableau** to develop visualizations and an interactive dashboard.
 
+## Dataset & Source
+
+This project uses a historical video game sales dataset containing information about game titles, platforms, genres, publishers, release years, and estimated sales across North America, Europe, Japan, and other regions.
+
+The dataset was used to evaluate historical gaming market performance and identify patterns relevant to business strategy.
+
+**Original Dataset:** [View Dataset](PASTE_ORIGINAL_DATASET_URL_HERE)
+
+**Note:** This dataset reflects historical video game sales and does not represent current gaming market conditions.
+
 ## Explore the Project
 
 **[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/marissa.west1347/viz/Video_Game_Tableau/Dashboard1)**
