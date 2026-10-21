@@ -1,43 +1,129 @@
-# Video Game Market Analysis | Historical Sales & Strategy
+# Video Game Market Analysis | Historical Sales & Business Strategy
 
 ## Project Overview
 
-This project explores historical video game sales data to identify trends in platform performance, game genres, regional markets, and major publishers. I used Microsoft Excel to clean and analyze the data and Tableau to create a dashboard that communicates the findings visually.
+The video game industry is highly competitive, with companies constantly evaluating market trends, consumer preferences, and competitor performance to guide strategic decisions.
 
-The goal was to understand how sales data can support strategic decision-making in the video game industry.
+For this project, I analyzed historical video game sales data to identify patterns across gaming platforms, genres, geographic regions, and publishers. My goal was to explore how data analytics can support strategic decision-making within the gaming industry.
 
-## Tools & Skills
-- **Microsoft Excel:** Data cleaning, PivotTables, calculations, and exploratory analysis
-- **Tableau:** Data visualization and dashboard development
-- **Business Strategy:** Market analysis, competitive analysis, and regional segmentation
+I used **Microsoft Excel** to clean, organize, and analyze the dataset and **Tableau** to develop visualizations and an interactive dashboard.
 
-## Research Questions & Key Findings
+## Explore the Project
 
-**Q1: Which gaming platforms performed best?**
+**[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/marissa.west1347/viz/Video_Game_Tableau/Dashboard1)**
 
-PlayStation 2 generated the highest estimated historical global software sales in the dataset, followed by Xbox 360 and PlayStation 3.
+[View Excel Analysis](Gaming_Market_Analysis.xlsx)
 
-**Q2: Which video game genres generated the most sales?**
+[Download Tableau Packaged Workbook](Video_Game_Tableau.twbx)
 
-Action games led in total global software sales, followed by Sports and Shooter games.
+## Tools & Skills Demonstrated
 
-**Q3: How do gaming preferences differ across regions?**
+**Microsoft Excel**
+- Data cleaning and preparation
+- PivotTables and data aggregation
+- Sales calculations and percentage comparisons
+- Exploratory data analysis
 
-Action games accounted for the largest share of sales in North America and Europe, while Role-Playing games represented the largest share in Japan.
+**Tableau**
+- Data visualization and dashboard development
+- Calculated fields and table calculations
+- Regional market comparisons
+- Communicating analytical findings
 
-**Q4: Which publishers generated the highest global sales?**
+**Business Analytics & Strategy**
+- Competitive market analysis
+- Regional market segmentation
+- Product portfolio evaluation
+- Data-driven strategic recommendations
 
-Nintendo ranked first in estimated historical global software sales, followed by Electronic Arts and Activision.
+---
 
-## Strategic Implications
+## Analysis, Interpretations & Strategic Recommendations
 
-These findings highlight the importance of understanding regional market differences, evaluating genre performance, and monitoring competitive positioning when making business decisions in the gaming industry.
+### Q1 | Gaming Platform Performance
 
-## Project Files
+**Research Question:** Which gaming platforms historically generated the highest global software sales?
 
-- `Gaming_Market_Analysis.xlsx` — Excel data preparation and analysis
-- `Video_Game_Tableau.twbx` — Tableau dashboard and visualizations
+**Key Findings**
 
-## Limitations
+PlayStation 2 generated the highest estimated historical global software sales in the dataset, with approximately **1,255.64 million copies**, followed by Xbox 360 (979.96 million) and PlayStation 3 (957.84 million).
 
-This analysis uses historical sales data and should not be interpreted as current market share. The dataset does not fully capture digital sales, development costs, or profitability.
+**Business Interpretation**
+
+These findings illustrate the historical importance of established gaming platforms and their software ecosystems. However, cumulative sales figures are influenced by platform lifespan, game availability, and the number of titles released.
+
+From a strategic perspective, gaming companies should evaluate platform performance alongside current engagement trends, software attach rates, and the strength of exclusive game portfolios rather than relying solely on historical sales volume.
+
+### Q2 | Video Game Genre Performance
+
+**Research Question:** Which video game genres performed best in terms of total and average global sales?
+
+**Key Findings**
+
+Action games generated the highest estimated historical global sales, with approximately **1,751.18 million copies**, followed by Sports (1,330.93 million) and Shooter (1,037.37 million).
+
+The Platform genre had the highest average sales per dataset record, at approximately **0.94 million copies**.
+
+**Business Interpretation**
+
+The difference between total sales and average sales highlights why multiple performance metrics are important when evaluating gaming portfolios.
+
+While Action games represented the largest overall sales category, the Platform genre demonstrated stronger average performance per record.
+
+Gaming companies should consider both market scale and average performance when evaluating genre opportunities, alongside development costs, competition, and potential profitability.
+
+### Q3 | Regional Gaming Preferences
+
+**Research Question:** How do video game genre sales patterns differ across North America, Europe, and Japan?
+
+**Key Findings**
+
+Action games accounted for the largest share of historical software sales in North America (**19.98%**) and Europe (**21.57%**).
+
+In Japan, Role-Playing games represented the largest share of regional sales at **27.29%**.
+
+**Business Interpretation**
+
+These findings demonstrate that historical video game sales patterns vary across geographic markets.
+
+For gaming companies operating internationally, regional differences can influence decisions about marketing campaigns, localization, product positioning, and portfolio development.
+
+Rather than applying identical strategies across all markets, companies could use regional sales analysis to identify opportunities for more targeted approaches.
+
+### Q4 | Video Game Publisher Performance
+
+**Research Question:** Which video game publishers generated the highest historical global software sales?
+
+**Key Findings**
+
+Nintendo led the dataset with approximately **1,786.56 million copies**, followed by Electronic Arts (1,110.32 million) and Activision (727.46 million).
+
+Sony Computer Entertainment ranked fourth among the publisher labels analyzed, with approximately **607.50 million copies**.
+
+**Business Interpretation**
+
+Publisher performance provides insight into the historical competitive landscape of the gaming industry.
+
+However, total software sales do not directly indicate profitability or overall business performance. Publisher comparisons should also consider release frequency, intellectual property, exclusive franchises, and development investment.
+
+The dataset also contains separate Sony-related publisher labels, meaning Sony Computer Entertainment's ranking does not represent the combined historical performance of all Sony publishing entities.
+
+---
+
+## Overall Strategic Takeaways
+
+**1. Platform ecosystems matter.**
+
+Historical software sales illustrate the importance of platform adoption, software availability, and sustained consumer engagement.
+
+**2. Genre performance requires multiple measures.**
+
+High total sales do not necessarily indicate the strongest average performance. Evaluating both metrics provides a more balanced understanding of potential opportunities.
+
+**3. Regional differences create opportunities for targeted strategies.**
+
+Differences in historical genre sales shares suggest that marketing, localization, and portfolio decisions may benefit from regional segmentation.
+
+**4. Competitive analysis should extend beyond sales rankings.**
+
+Publisher sales provide useful historical context, but strategic evaluations should also consider intellectual property, profitability,
