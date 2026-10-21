@@ -14,7 +14,7 @@ This project uses a historical video game sales dataset containing information a
 
 The dataset was used to evaluate historical gaming market performance and identify patterns relevant to business strategy.
 
-**Original Dataset:** [View Dataset](PASTE_ORIGINAL_DATASET_URL_HERE)
+**Original Dataset:** [View Dataset](https://www.kaggle.com/datasets/gregorut/videogamesales/data)
 
 **Note:** This dataset reflects historical video game sales and does not represent current gaming market conditions.
 
